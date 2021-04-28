@@ -63,4 +63,4 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
  For instance, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., ***\*this text is bold\****). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the Atom text editor.
 
-[Git-Homework](C:\Users\asus\Documents\Git-Homework\file.md)
+[Git-Homework](file.md)
